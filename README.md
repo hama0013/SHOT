@@ -3,5 +3,5 @@
 Dokumentation unter:
 https://hama0013.github.io/SHOT/
 
-Code zum Runterladen: shot.py <Br>
-Beispielhafte CSV-Datei: shot.csv
+Code zum Runterladen: <B>shot.py</B><Br>
+Beispielhafte CSV-Datei: <B>shot.csv</B>
